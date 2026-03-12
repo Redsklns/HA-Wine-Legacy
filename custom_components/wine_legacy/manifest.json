@@ -1,0 +1,11 @@
+{
+  "domain": "wine_legacy",
+  "name": "Wine Legacy",
+  "description": "Une solution intelligente et élégante pour la gestion complète de votre cave à vin dans Home Assistant.",
+  "documentation": "https://github.com/Redskins/HA-Wine-Legacy",
+  "version": "2026.3.0",
+  "codeowners": ["@Redskins"],
+  "iot_class": "local_push",
+  "requirements": ["google-generativeai>=0.8.0"],
+  "homeassistant": "2025.1.0"
+}
